@@ -15,7 +15,7 @@ If you find our work useful for your research, please cite the following paper:
 ```
 
 ## Code usage
-**Add: NO WARRANTY**
+**THIS CODE COMES WITHOUT WARRANTY, USE THIS CODE AT YOUR OWN RISK.**
 
 Before using the code, download the checkpoint files [here](https://www.dropbox.com/sh/iapcebdwiox40wk/AABAfTZu9ICPCbNHqLhUhEK2a?dl=0) and place them in the ```examples/checkpoint/``` directory. 
 
