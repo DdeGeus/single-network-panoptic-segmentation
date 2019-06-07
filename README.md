@@ -85,7 +85,7 @@ Things    |  40.6   75.1   53.6     8
 Stuff     |  53.5   78.1   65.0    11
 ```
 
-Average inference time on Cityscapes (using Nvidia Titan Xp):
+Average inference time on Cityscapes (using an Nvidia Titan Xp GPU):
 ```531 ms```
 
 Evaluation scripts can be found [here](https://github.com/cocodataset/panopticapi).
