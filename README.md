@@ -8,7 +8,7 @@ If you find our work useful for your research, please cite the following paper:
 ```
 @inproceedings{panoptic2019degeus,
   title={Single Network Panoptic Segmentation for Street Scene Understanding},
-  author={Daan {de Geus{ and Panagiotis Meletis and Gijs Dubbelman},
+  author={Daan {de Geus} and Panagiotis Meletis and Gijs Dubbelman},
   booktitle={2019 IEEE Intelligent Vehicles Symposium (IV)},
   year={2019}
 }
