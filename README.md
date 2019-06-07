@@ -38,7 +38,7 @@ Tested on Python 3.6.4, with:
 
 It is likely that the code works on higher versions of the aforementioned packages, but this has not been tested.
 
-For GPU inference, use ```tensorflow-gpu==1.6.0```
+For GPU inference, use ```tensorflow-gpu```.
 
 
 ### Inference
